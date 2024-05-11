@@ -1,6 +1,3 @@
-# Flask-SQLAlchemy Lab 2
-
-## Learning Goals
 
 - Use Flask-SQLAlchemy to define a data model with relationships
 - Implement an association proxy for a model
